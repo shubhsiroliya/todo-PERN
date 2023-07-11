@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS tb1(
+    tb1_id SERIAL PRIMARY KEY,
+    description VARCHAR(255)
+);
